@@ -10,7 +10,7 @@ import color_palette_tools
 
 low_cutoff = 0.1
 high_cutoff = 0.8
-n_colors = 15
+n_colors = 8
 
 key_palette = 3
 
