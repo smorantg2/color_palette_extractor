@@ -78,4 +78,5 @@ The system automatically generates a link to [Coolors webiste](https://coolors.c
 ## References
 
 Inspired and based on this [article](https://towardsdatascience.com/algorithmic-color-palettes-a110d6448b5d).
-All movie images have been downloaded from [FILMGRAB](https://film-grab.com/)
+
+All movie images have been downloaded from [FILMGRAB](https://film-grab.com/).
