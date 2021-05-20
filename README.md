@@ -19,7 +19,7 @@ Clone this repository on your own machine.
 git clone https://github.com/smorantg2/color_palette_extractor
 ```
 
-### Step 2: Select the desired parameters and run!
+### Step 2: Select the desired parameters and run color_palette_extractor.py
 
 ```
 low_cutoff              Threshold to remove pixels with too low light and avoid too many dark colors or blacks in the palette [0-1]
@@ -32,8 +32,9 @@ key_palette             Select the method and color space to be used:
                             #Key 4 = Gaussian Mixture + HSV color space
 
 ```
+Tip: If the resulting palette lacks some important color try changing the clustering method and/or the color space.
 
-## Demo
+## Some examples
 
 ### KMeans clustering in RGB color space
 
@@ -77,3 +78,4 @@ The system automatically generates a link to [Coolors webiste](https://coolors.c
 ## References
 
 Inspired and based on this [article](https://towardsdatascience.com/algorithmic-color-palettes-a110d6448b5d).
+All movie images have been downloaded from [FILMGRAB](https://film-grab.com/)
